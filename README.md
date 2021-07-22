@@ -11,7 +11,7 @@ How to Play: use wasd or the arrow keys to move and click the left mouse button 
 I have a handful of game project ideas I would like to work on in the future, but
 I think I would use a different library to develop it.
 
-[Software Demo Video](https://www.youtube.com/watch?v=Xe8-eKrETJw)
+[Software Demo Video](https://youtu.be/FspNoEoSyYg)
 
 # Development Environment
 
