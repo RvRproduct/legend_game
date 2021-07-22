@@ -6,6 +6,8 @@ This is a platformer/shooter game, that was made using Python and the arcade lib
 The goal of this game is to beat all the enemies on the screen to open the blockade to
 get to the next level.
 
+How to Play: use wasd or the arrow keys to move and click the left mouse button to shoot.
+
 I have a handful of game project ideas I would like to work on in the future, but
 I think I would use a different library to develop it.
 
