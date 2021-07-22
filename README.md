@@ -15,7 +15,7 @@ I think I would use a different library to develop it.
 
 # Development Environment
 
-I used Python, Arcade, and Visual Studio to create this application.
+I used Python, Arcade, photoshop, and Visual Studio to create this application.
 
 I used Python and the arcade library, I split it up in separte files, so that
 I could have cleaner and more understandable code.
